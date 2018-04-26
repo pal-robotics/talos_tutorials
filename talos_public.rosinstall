@@ -14,5 +14,6 @@
 - git: {local-name: talos_simulation, uri: 'https://github.com/pal-robotics/talos_simulation.git', version: 'indigo-devel'}
 - git: {local-name: tf_lookup, uri: 'https://github.com/pal-robotics/tf_lookup.git', version: 'master'}
 - git: {local-name: head_action, uri: 'https://github.com/pal-robotics/head_action.git', version: 'indigo-devel'}
+- git: {local-name: dynamic_introspection, uri: 'https://github.com/pal-robotics/dynamic_introspection', version: 'kinetic-devel'}
+- git: {local-name: backward_ros, uri: 'https://github.com/pal-robotics/backward_ros', version: 'kinetic-devel'}
 - git: {local-name: pal_statistics, uri: 'https://github.com/pal-robotics/pal_statistics', version: 'kinetic-devel'}
-
